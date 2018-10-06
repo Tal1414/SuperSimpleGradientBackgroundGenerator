@@ -1,0 +1,16 @@
+body {
+	text-align: center;
+	background: linear-gradient(to right, #00f0f0, #f0f0f0);
+}
+
+h1 {
+	font-family: 'Fira Sans', sans-serif;
+	text-shadow: 2px 2px #f0f0ff;
+
+}
+
+h2 {
+	font-family: 'Fira Sans', sans-serif;
+	text-shadow: 1px 1px #fff0ff;
+
+}
